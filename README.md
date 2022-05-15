@@ -13,7 +13,7 @@ torchvision 0.2.0
 
 ### Start
 
-1. build train and test list 
+1. build train.txt and test.txt list 
 
 2. run "python train.py" 
 
