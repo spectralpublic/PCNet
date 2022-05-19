@@ -13,11 +13,11 @@ In this code, we selected pairs of confused images as input and generate their o
 
 Requirements:
              
-   Python 2.7
+             Python 2.7
 
-   Pytorch 0.4.1
+             Pytorch 0.4.1
 
-   torchvision 0.2.0
+             torchvision 0.2.0
 
 1. Build train.txt and test.txt list 
 
