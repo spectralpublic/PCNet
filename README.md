@@ -25,7 +25,7 @@ Requirements:
 
 
 
-### 3. Citation
+### 3. Related work
 
 If you find the code and dataset useful in your research, please consider citing:
 
@@ -37,10 +37,6 @@ If you find the code and dataset useful in your research, please consider citing
      publisher={IEEE}
      }
 
-### 4. Related work and personal research
-
-Related work：
-
      @inproceedings{zhuang2020learning,
       title={Learning attentive pairwise interaction for fine-grained classification},
       author={Zhuang, Peiqin and Wang, Yali and Qiao, Yu},
@@ -51,17 +47,15 @@ Related work：
       year={2020}
       }
 
-Personal research：
-
-    @article{chen2022remote,
-     title={Remote Sensing Scene Classification by Local--Global Mutual Learning},
-     author={Chen, Xiumei and Zheng, Xiangtao and Zhang, Yue and Lu, Xiaoqiang},
-     journal={IEEE Geoscience and Remote Sensing Letters},
-     volume={19},
-     pages={1-5},
-     year={2022},
-     publisher={IEEE}
-     }
+      @article{chen2022remote,
+       title={Remote Sensing Scene Classification by Local--Global Mutual Learning},
+       author={Chen, Xiumei and Zheng, Xiangtao and Zhang, Yue and Lu, Xiaoqiang},
+       journal={IEEE Geoscience and Remote Sensing Letters},
+       volume={19},
+       pages={1-5},
+       year={2022},
+       publisher={IEEE}
+       }
 
 
 
