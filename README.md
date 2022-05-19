@@ -19,13 +19,13 @@ Requirements:
  
              torchvision 0.2.0
 
-1. build train.txt and test.txt list 
+1. Build train.txt and test.txt list 
 
-2. run "python train.py" 
+2. Run "python train.py" 
 
 
 
-### 4. Citation
+### 3. Citation
 
 If you find the code and dataset useful in your research, please consider citing:
 
@@ -37,7 +37,9 @@ If you find the code and dataset useful in your research, please consider citing
      publisher={IEEE}
      }
 
-### 5. Related work and personal research
+### 4. Related work and personal research
+
+Related work：
 
      @inproceedings{zhuang2020learning,
       title={Learning attentive pairwise interaction for fine-grained classification},
@@ -48,6 +50,8 @@ If you find the code and dataset useful in your research, please consider citing
       pages={13130--13137},
       year={2020}
       }
+
+Personal research：
 
     @article{chen2022remote,
      title={Remote Sensing Scene Classification by Local--Global Mutual Learning},
