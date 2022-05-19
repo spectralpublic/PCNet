@@ -11,7 +11,8 @@ In this code, we selected pairs of confused images as input and generate their o
 
 ### 2. Start
 
-Requirements:Python 2.7
+Requirements:
+             Python 2.7
  
              Pytorch 0.4.1
  
@@ -37,25 +38,25 @@ If you find the code and dataset useful in your research, please consider citing
 
 ### 5. Related work and personal research
 
-  @inproceedings{zhuang2020learning,
-  title={Learning attentive pairwise interaction for fine-grained classification},
-  author={Zhuang, Peiqin and Wang, Yali and Qiao, Yu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={34},
-  number={07},
-  pages={13130--13137},
-  year={2020}
-  }
-  
-  @article{chen2022remote,
-  title={Remote Sensing Scene Classification by Local--Global Mutual Learning},
-  author={Chen, Xiumei and Zheng, Xiangtao and Zhang, Yue and Lu, Xiaoqiang},
-  journal={IEEE Geoscience and Remote Sensing Letters},
-  volume={19},
-  pages={1-5},
-  year={2022},
-  publisher={IEEE}
-  }
+     @inproceedings{zhuang2020learning,
+      title={Learning attentive pairwise interaction for fine-grained classification},
+      author={Zhuang, Peiqin and Wang, Yali and Qiao, Yu},
+      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+      volume={34},
+      number={07},
+      pages={13130--13137},
+      year={2020}
+      }
+
+    @article{chen2022remote,
+     title={Remote Sensing Scene Classification by Local--Global Mutual Learning},
+     author={Chen, Xiumei and Zheng, Xiangtao and Zhang, Yue and Lu, Xiaoqiang},
+     journal={IEEE Geoscience and Remote Sensing Letters},
+     volume={19},
+     pages={1-5},
+     year={2022},
+     publisher={IEEE}
+     }
 
 
 
