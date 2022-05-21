@@ -13,11 +13,11 @@ In this code, we selected pairs of confused images as input and generate their o
 
 Requirements:
              
-             Python 2.7
+         Python 2.7
 
-             Pytorch 0.4.1
+         Pytorch 0.4.1
 
-             torchvision 0.2.0
+         torchvision 0.2.0
 
 1. Build train.txt and test.txt list 
 
@@ -33,8 +33,7 @@ If you find the code and dataset useful in your research, please consider citing
      title={Pairwise Comparison Network for Remote Sensing Scene Classification},
      author={Zhang, Yue and Zheng, Xiangtao and Lu, Xiaoqiang},
      journal={IEEE Geoscience and Remote Sensing Letters},
-     year={2021},
-     publisher={IEEE}
+     year={2021}
      }
 
     @inproceedings{zhuang2020learning,
@@ -52,9 +51,7 @@ If you find the code and dataset useful in your research, please consider citing
      author={Chen, Xiumei and Zheng, Xiangtao and Zhang, Yue and Lu, Xiaoqiang},
      journal={IEEE Geoscience and Remote Sensing Letters},
      volume={19},
-     pages={1-5},
-     year={2022},
-     publisher={IEEE}
+     year={2022}
      }
 
 
