@@ -4,7 +4,7 @@
 
 This is the reserch code of the IEEE Geoscience and Remote Sensing Letters 2022 paper.
 
-Y. Zhang, X. Zheng, and X. Lu, “Pairwise Comparison Network for Remote Sensing Scene Classification,” IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022.
+Y. Zhang, X. Zheng, and X. Lu, “Pairwise Comparison Network for Remote Sensing Scene Classification,” IEEE Geoscience and Remote Sensing Letters, 2022.
 
 In this code, we selected pairs of confused images as input and generate their own self- representation and mutual-representation. The self-representation highlights the informative parts of each image itself and the mutual-representation captures the subtle differences between image pairs. While a ranking loss is introduced to consider the feature priorities: the self-representation should be more discriminative than the mutual representation.
 
